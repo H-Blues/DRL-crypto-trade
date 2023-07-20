@@ -10,6 +10,8 @@ This project is to build an intelligent agent to automate trading in crypto mark
 
 In this project, deep reinforcement learning algorithms, specifically, **Duelling Deep Q Network** was used to implement the system.
 
+I also tried to publish this project in a flask web app. Modify app.py and vercel.json files to update your configuration.
+
 ### 🔢 Methodology
 
 In file DRL_Env, it defines the cryptocurrencies market, and the agent will perform the sell and buy actions in this environment. The environment observes
